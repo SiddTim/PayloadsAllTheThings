@@ -484,5 +484,4 @@ Offline version of the ps1 available at --> https://github.com/antonioCoco/ConPt
 
 * [Reverse Bash Shell One Liner](https://security.stackexchange.com/questions/166643/reverse-bash-shell-one-liner)
 * [Pentest Monkey - Cheat Sheet Reverse shell](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
-* [Spawning a TTY Shell](http://netsec.ws/?p=337)
 * [Obtaining a fully interactive shell](https://forum.hackthebox.eu/discussion/142/obtaining-a-fully-interactive-shell)
